@@ -1,0 +1,7 @@
+local-deployment/aws-deployment/terraform/dev-key
+local-deployment/aws-deployment/terraform/dev-key.pub
+local-deployment/aws-deployment/terraform/.terraform.lock.hcl
+local-deployment/aws-deployment/terraform/terraform.tfstate
+local-deployment/aws-deployment/terraform/terraform.tfstate.backup
+local-deployment/aws-deployment/terraform/.terraform/modules/modules.json
+local-deployment/aws-deployment/terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/5.26.0/darwin_amd64/terraform-provider-aws_v5.26.0_x5
